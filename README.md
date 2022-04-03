@@ -19,7 +19,8 @@ INTRUCCIONES:
 PARA HACER APORTES
 
 1.- Editar MexicoFTW.png
-  Se debe primero editar la imagen llamada MexicoFTW.png esta tiene un tanamio de 2000x1000 pixeles igual que el canvas de r/place cada pixel en la imagen corresponde a un pixel en r/place con las mismas coordenadas. 
+
+Se debe primero editar la imagen llamada MexicoFTW.png esta tiene un tanamio de 2000x1000 pixeles igual que el canvas de r/place cada pixel en la imagen corresponde a un pixel en r/place con las mismas coordenadas. 
   
 2. Correr el script de python dithering.py en la misma carpeta que la imagen (o mandarme mensaje por Discord GerPastOrr#1869 con la nueva imagen) 
 
