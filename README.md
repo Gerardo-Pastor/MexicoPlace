@@ -14,6 +14,9 @@ INTRUCCIONES:
   
 3.- Una vez instalado todo pueden ir a la pagina de r/place y deberia funcionar si no lo hace hagan CTRL + F5 o SHIFT + F5
 
+COMO FUNCIONA:
+
+En r/place saldran cuadros pequenos en el lugar del disenio, tenemos que pintar los cuadros de atras grandes del mismo color que el cuadro chiquito
 
 PARA HACER APORTES
 
