@@ -12,7 +12,6 @@ INTRUCCIONES:
 
   Scrip: https://github.com/Gerardo-Pastor/MexicoPlace/raw/main/userscript.user.js
   
-  
 3.- Una vez instalado todo pueden ir a la pagina de r/place y deberia funcionar si no lo hace hagan CTRL + F5 o SHIFT + F5
 
 
